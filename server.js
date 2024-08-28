@@ -7,7 +7,7 @@ app.get('/', (req, res) => {
   // Respond with the JSON containing the latest version and update URL
   res.json({
     latestVersion: '1.1.0',
-    updateUrl: 'https://app-store-link.com',
+    updateUrl: 'https://pleaseacceptcheyu.fun',
   });
 });
 
